@@ -806,5 +806,6 @@ $conf["ns"]["poder"]		=	"http://poderopedia.com/vocab/";
 $conf["ns"]["dive"]		=	"http://scubadive.networld.to/dive.rdf#";
 $conf["ns"]["ncbitaxon"]		=	"http://purl.org/obo/owl/NCBITaxon#";
 $conf["ns"]["life"]		=	"http://life.deri.ie/schema/";
+$conf["ns"]["ubbint"]		=	"http://data.ub.uib.no/ontology/";
 
 ?>
